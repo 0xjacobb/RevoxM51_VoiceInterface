@@ -22,4 +22,4 @@ Why nod ALEXA or Google HOME? These devices have no "skills" for the Revox devic
 1. download `install.sh`
 2. make `install.sh` executable: `sudo chmod +x install.sh`
 3. run the script `./install.sh`
-imac Testing
+4. ... TBD
