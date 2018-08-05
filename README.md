@@ -1,6 +1,6 @@
 # Offline voice interface to control Revox M51 with RaspberryPi and MATRIX Voice
 ## Highlevel description
-This is a private project to build a voice interface for Revox M51 home cinema amplifier. You should be able to say somehting like: "WAKEWORD, start TV" for starting the TV. 
+This is a private project to build a voice interface for Revox M51 home cinema amplifier. You should be able to say somehting like: "WAKEWORD, start TV" for starting the TV.
 
 Why nod ALEXA or Google HOME? These devices have no "skills" for the Revox device yet. Another issue is, that these devices need internet connection and the goal of this project is to build a complete offline voice interface with a smal set of specific commands.
 
@@ -22,3 +22,4 @@ Why nod ALEXA or Google HOME? These devices have no "skills" for the Revox devic
 1. download `install.sh`
 2. make `install.sh` executable: `sudo chmod +x install.sh`
 3. run the script `./install.sh`
+imac Testing
